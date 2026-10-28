@@ -1,4 +1,6 @@
-BSD 3-Clause License
+[![BSD-4-Clause](https://img.shields.io/badge/License-BSD--4--Clause-green?style=for-the-badge)](https://opensource.org/license/bsd-4-clause)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-30363D?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://saweria.co/bagasy1ahdev)
+
 
 Copyright (c) 2003, BAGASY1AHDEV
 Ⓒ https://sy1ah.pages.dev
